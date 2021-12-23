@@ -3,7 +3,7 @@ package org.smallSpring;
 import com.crush.controller.frontend.MainPageController;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.smallSpring.core.annotaion.BeanContainer;
+import org.smallSpring.core.BeanContainer;
 import org.smallSpring.inject.DependencyInjector;
 
 public class DependencyInjectorTest {

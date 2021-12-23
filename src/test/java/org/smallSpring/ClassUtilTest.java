@@ -2,7 +2,7 @@ package org.smallSpring;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.smallSpring.core.utils.ClassUtil;
+import org.smallSpring.utils.ClassUtil;
 
 import java.util.Set;
 

@@ -3,7 +3,7 @@ package org.smallSpring;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import org.smallSpring.core.annotaion.BeanContainer;
+import org.smallSpring.core.BeanContainer;
 
 public class BeanContainerTest {
     private static BeanContainer beanContainer;

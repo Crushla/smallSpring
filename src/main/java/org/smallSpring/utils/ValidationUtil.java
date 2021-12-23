@@ -1,4 +1,4 @@
-package org.smallSpring.core.utils;
+package org.smallSpring.utils;
 
 import java.util.Collection;
 import java.util.Map;
